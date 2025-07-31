@@ -1,0 +1,41 @@
+Our Dataset:
+
+average jaccard-similarity between question and context: 0.08421756021726642
+average entities/question : 6.02677116473966
+average entities/context : 228.84930550166834
+average entities/answer : 33.46931015752308
+average words/question : 22.806549235663848
+average words/context : 794.5568402265849
+average words/answer : 121.86288507798557
+average sentences/question : 1.1132924652750835
+average sentences/context : 35.64056801427795
+average sentences/answer : 5.173818576860402
+top 10 words in questions : ['explain', 'data', 'one', 'example', 'time', 'justify', 'must', 'system', 'describe', 'table']
+top 10 words in answers : ['hence', 'data', 'one', 'time', 'system', 'process', 'set', 'two', 'number', 'example']
+top 10 words in contexts : ['data', 'one', 'time', 'system', 'used', 'number', 'process', 'figure', 'two', 'set']
+
+Question average flesch reading ease score :  50.56869092884305
+Question average automatic readability index :  12.429626755645286
+Context average flesch reading ease score :  51.36863350663472
+Context average automatic readability index :  12.521797159928628
+
+SQUAD:
+
+average jaccard-similarity between question and context: 0.09244143033736495
+average entities/question : 3.413612027534561
+average entities/context : 42.9736184203016
+average entities/answer : 1.6540371465427688
+average words/question : 11.402778570531627
+average words/context : 140.27822235413646
+average words/answer : 3.4808502380164157
+average sentences/question : 1.0017351796253382
+average sentences/context : 5.033276635578032
+average sentences/answer : 1.0026826790260164
+top 10 words in questions : ['many', 'year', 'first', 'name', 'type', 'used', 'new', 'city', 'people', 'one']
+top 10 words in answers : ['million', 'century', 'two', 'new', 'one', 'united', 'three', 'years', 'war', 'world']
+top 10 words in contexts : ['also', 'one', 'first', 'new', 'city', 'many', 'two', 'world', 'time', 'state']
+
+Question average flesch reading ease score :  70.15053413852037
+Question average automatic readability index :  7.320230824552355
+Context average flesch reading ease score :  46.51431842829322
+Context average automatic readability index :  15.620726263998721
