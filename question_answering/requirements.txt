@@ -1,0 +1,19 @@
+torch --extra-index-url https://download.pytorch.org/whl/cpu
+torchvision --extra-index-url https://download.pytorch.org/whl/cpu 
+torchaudio --extra-index-url https://download.pytorch.org/whl/cpu
+fastcoref
+transformers
+sentence_transformers
+datasets
+imbalanced-learn
+nltk
+pyg-lib -f https://data.pyg.org/whl/torch-1.13.0+cpu.html
+torch-scatter -f https://data.pyg.org/whl/torch-1.13.0+cpu.html
+torch-sparse -f https://data.pyg.org/whl/torch-1.13.0+cpu.html
+torch-cluster -f https://data.pyg.org/whl/torch-1.13.0+cpu.html
+torch-spline-conv -f https://data.pyg.org/whl/torch-1.13.0+cpu.html
+torch-geometric -f https://data.pyg.org/whl/torch-1.13.0+cpu.html
+spacy
+
+
+
